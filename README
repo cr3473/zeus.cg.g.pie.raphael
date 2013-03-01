@@ -1,0 +1,6 @@
+
+the ZEUS cloudGatherer fork of the g.raphael pie js code.
+developed for use within the ZEUS cloudGatherer infrastructure UI, this code was forked from g.raphael code, the graphing/charting library based upon the Raphael javascript SVG library
+
+this fork was created to allow deterministic coloring of the pie chart slices, which could then be kept consistent with elements outside of the chart itself (e.g. a slice representing a value which is shown in another chart or diagram can be made to be the same color)
+
